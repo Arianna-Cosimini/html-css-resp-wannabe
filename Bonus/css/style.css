@@ -178,5 +178,21 @@ img {
  }
 
 
+ @media screen and (min-width:769px){
+    .container{
+        width: 100%;
+        margin: 0 auto;
+    }
+ }
+
+ @media screen and (min-width:1160px){
+    .container{
+        width: 1140px;
+        margin: 0 auto;
+    }
+ }
+
+
+
 
  
